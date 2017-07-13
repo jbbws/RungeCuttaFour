@@ -1,0 +1,9 @@
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\bin\Debug\Runge.exe.config
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\obj\Debug\Runge.csprojResolveAssemblyReference.cache
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\obj\Debug\Runge.Form1.resources
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\obj\Debug\Runge.Properties.Resources.resources
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\obj\Debug\Runge.csproj.GenerateResource.Cache
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\bin\Debug\Runge.exe
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\bin\Debug\Runge.pdb
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\obj\Debug\Runge.exe
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\obj\Debug\Runge.pdb

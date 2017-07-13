@@ -1,0 +1,8 @@
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\bin\Release\Runge.exe.config
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\bin\Release\Runge.exe
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\bin\Release\Runge.pdb
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\obj\Release\Runge.Form1.resources
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\obj\Release\Runge.Properties.Resources.resources
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\obj\Release\Runge.csproj.GenerateResource.Cache
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\obj\Release\Runge.exe
+c:\users\иван\documents\visual studio 2015\Projects\Runge\Runge\obj\Release\Runge.pdb
